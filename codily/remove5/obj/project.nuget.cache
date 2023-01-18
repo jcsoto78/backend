@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YTN8j/Um9Y7PAtDdqPgj6o+3rVmJG+n4u2LtAcz5U/A6cN/KkHgQTfX2avQ0wZBgFA4YJEG1gJuzHG1n6yNwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\remove5\\remove5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

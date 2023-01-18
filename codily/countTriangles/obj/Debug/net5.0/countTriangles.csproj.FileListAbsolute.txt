@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\countTriangles.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\countTriangles.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\countTriangles.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\countTriangles.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\countTriangles.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\ref\countTriangles.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\bin\Debug\net5.0\countTriangles.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\ref\countTriangles.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\countTriangles\obj\Debug\net5.0\countTriangles.genruntimeconfig.cache

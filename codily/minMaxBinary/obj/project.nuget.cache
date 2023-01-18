@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUKQc3swvZxzc3xi0aCl3a7o+LFYkZ77eCc0sIqMptep12pZMNdg4y99oqaDG+lKLy7naoCp9JNMh1EtG0b6dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minMaxBinary\\minMaxBinary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\minMaxBinary.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\minMaxBinary.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\minMaxBinary.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\minMaxBinary.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\minMaxBinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\ref\minMaxBinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\bin\Debug\net5.0\minMaxBinary.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\ref\minMaxBinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\minMaxBinary\obj\Debug\net5.0\minMaxBinary.genruntimeconfig.cache

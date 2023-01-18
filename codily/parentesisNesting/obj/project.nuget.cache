@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJd0UNYpJgrix42RHq8/O9rolHL9bANTc1uepHuc2uftEIU6yjIszpv38KoZObc0dlWvEC0pFU+T6R1ga/PlLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\parentesisNesting\\parentesisNesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

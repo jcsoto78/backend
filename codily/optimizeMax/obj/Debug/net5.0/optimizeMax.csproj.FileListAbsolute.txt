@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\optimizeMax.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\optimizeMax.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\optimizeMax.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\optimizeMax.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\optimizeMax.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\ref\optimizeMax.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\bin\Debug\net5.0\optimizeMax.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\ref\optimizeMax.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\optimizeMax\obj\Debug\net5.0\optimizeMax.genruntimeconfig.cache

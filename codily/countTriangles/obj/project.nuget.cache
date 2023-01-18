@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4R3UiF0NQvvzhlYwRwQzRvAKicfSVLtA5ffK05N1yTiapCQsIN2NrbYSUA07I+9hlDzQvgVVLy3PWlOb6YzGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\countTriangles\\countTriangles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\parentesisNesting.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\parentesisNesting.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\parentesisNesting.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\parentesisNesting.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\parentesisNesting.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\ref\parentesisNesting.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\bin\Debug\net5.0\parentesisNesting.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\ref\parentesisNesting.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisNesting\obj\Debug\net5.0\parentesisNesting.genruntimeconfig.cache

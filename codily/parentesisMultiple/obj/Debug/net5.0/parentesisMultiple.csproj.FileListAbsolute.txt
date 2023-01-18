@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\parentesisMultiple.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\parentesisMultiple.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\parentesisMultiple.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\parentesisMultiple.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\parentesisMultiple.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\ref\parentesisMultiple.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\bin\Debug\net5.0\parentesisMultiple.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\ref\parentesisMultiple.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\parentesisMultiple\obj\Debug\net5.0\parentesisMultiple.genruntimeconfig.cache

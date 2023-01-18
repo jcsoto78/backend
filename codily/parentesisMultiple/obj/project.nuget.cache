@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgteP5ZiVB0+Om5J2CQ+m8oCltMUtbUaMQQ/kCP4yO6Gd0DfXX2ZGzbcQjkPL+ryMVnz6uSdkhLSr+7jZ0dNNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\parentesisMultiple\\parentesisMultiple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QMmCCQiCjSzFEeCpOyswyaT/Yr28hODjvsGQlK+xMwNgYUj/df1Qj9ZQ+NS1ASazZAcyu2uc2r2GbuuVh3PbvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\optimizeMax\\optimizeMax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

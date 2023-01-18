@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\remove5.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\remove5.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\remove5.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\remove5.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\remove5.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\ref\remove5.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\bin\Debug\net5.0\remove5.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\ref\remove5.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\remove5\obj\Debug\net5.0\remove5.genruntimeconfig.cache
