@@ -26,7 +26,7 @@ namespace minMaxBinary
                 left = Math.Max(left, A[i]);
             }
 
-            int guess = right;
+            int guessResult = right;
             
             while (left <= right)
             {
@@ -34,16 +34,19 @@ namespace minMaxBinary
                 int blocks = countBlocks(A, mid);
 
                 // if blocks is > N, mid is too low and then too many blocks where formed
+                // if blocks < K, the mid is high, so too little blocks were formed
+
                 if(blocks > K) {
                     left = mid + 1;
                 }
                 else {
                     right = mid - 1;
-                    if(mid < guess)
-                        guess = mid;
+                    // if(mid < guess)
+                    guessResult = mid;
                 }
+
             }
-            return guess;
+            return guessResult;
         }
 
         // each block represents a sum of A elements for a given mid
