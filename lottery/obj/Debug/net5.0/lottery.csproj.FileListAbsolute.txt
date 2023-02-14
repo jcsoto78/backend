@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\lottery.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\lottery.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\lottery.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\lottery.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\lottery.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\ref\lottery.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\bin\Debug\net5.0\lottery.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\ref\lottery.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\lottery\obj\Debug\net5.0\lottery.genruntimeconfig.cache

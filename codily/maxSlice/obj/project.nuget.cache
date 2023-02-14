@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbSnagbSx/JAjcpm6B9p0KYYA27EWxIP0Mk1h/rGw+WZn7AKKNgQ3bfbnIygVQAd2+AL9cCRVDRhsss10wjRzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\maxSlice\\maxSlice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

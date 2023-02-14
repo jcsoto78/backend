@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\maxSlice.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\maxSlice.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\maxSlice.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\maxSlice.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\maxSlice.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\ref\maxSlice.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\bin\Debug\net5.0\maxSlice.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\ref\maxSlice.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\maxSlice\obj\Debug\net5.0\maxSlice.genruntimeconfig.cache

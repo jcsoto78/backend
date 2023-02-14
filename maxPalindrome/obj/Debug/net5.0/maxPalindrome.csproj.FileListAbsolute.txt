@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\maxPalindrome.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\maxPalindrome.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\maxPalindrome.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\maxPalindrome.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\maxPalindrome.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\ref\maxPalindrome.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\bin\Debug\net5.0\maxPalindrome.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\ref\maxPalindrome.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\maxPalindrome\obj\Debug\net5.0\maxPalindrome.genruntimeconfig.cache

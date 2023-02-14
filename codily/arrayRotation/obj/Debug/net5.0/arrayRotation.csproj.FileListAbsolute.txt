@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\arrayRotation.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\arrayRotation.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\arrayRotation.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\arrayRotation.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\arrayRotation.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\ref\arrayRotation.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\bin\Debug\net5.0\arrayRotation.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\ref\arrayRotation.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\codily\arrayRotation\obj\Debug\net5.0\arrayRotation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\maxSliceReturnsArray.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\maxSliceReturnsArray.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\maxSliceReturnsArray.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\maxSliceReturnsArray.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\maxSliceReturnsArray.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\ref\maxSliceReturnsArray.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\bin\Debug\net5.0\maxSliceReturnsArray.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\ref\maxSliceReturnsArray.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\maxSliceReturnsArray\obj\Debug\net5.0\maxSliceReturnsArray.genruntimeconfig.cache

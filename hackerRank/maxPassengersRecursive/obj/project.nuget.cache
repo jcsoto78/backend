@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGQE2NNHR4vjxYZvzauVRfF1cV1ymCFDCFcs9q7cQ/YSezc2OeF0Cs/FQTW7UCZr9a6S/OeKIdaK3nrLVILHSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\hackerRank\\maxPassengersRecursive\\maxPassengers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

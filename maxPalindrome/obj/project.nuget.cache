@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VM3mgN8pwntOzLEnh6eR6tLuW7CK4ThbpxQhKiwlEf1/+6LieLAeFQA1iDiKq8LgRxnn8I/5inJNn9hJ3T7Gjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\maxPalindrome\\maxPalindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

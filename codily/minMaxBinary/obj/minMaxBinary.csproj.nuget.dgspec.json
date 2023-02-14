@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minMaxBinary\\minMaxBinary.csproj": {}
+    "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minmaxbinary\\minMaxBinary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minMaxBinary\\minMaxBinary.csproj": {
+    "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minmaxbinary\\minMaxBinary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minMaxBinary\\minMaxBinary.csproj",
+        "projectUniqueName": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minmaxbinary\\minMaxBinary.csproj",
         "projectName": "minMaxBinary",
-        "projectPath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minMaxBinary\\minMaxBinary.csproj",
+        "projectPath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minmaxbinary\\minMaxBinary.csproj",
         "packagesPath": "C:\\Users\\jkyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minMaxBinary\\obj\\",
+        "outputPath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\codily\\minmaxbinary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jkyu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\linkedList.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\linkedList.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\linkedList.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\linkedList.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\linkedList.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\ref\linkedList.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\bin\Debug\net5.0\linkedList.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\ref\linkedList.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\linkedList\obj\Debug\net5.0\linkedList.genruntimeconfig.cache

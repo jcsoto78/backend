@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\addonebinary.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\addonebinary.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\addonebinary.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\addonebinary.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\addonebinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\ref\addonebinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\bin\Debug\net5.0\addonebinary.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\ref\addonebinary.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\addonebinary\obj\Debug\net5.0\addonebinary.genruntimeconfig.cache

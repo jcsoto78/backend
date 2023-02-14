@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\maxSumTree.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\maxSumTree.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\maxSumTree.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\maxSumTree.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\maxSumTree.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\ref\maxSumTree.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\bin\Debug\net5.0\maxSumTree.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\ref\maxSumTree.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\trees\maxSumTree\obj\Debug\net5.0\maxSumTree.genruntimeconfig.cache

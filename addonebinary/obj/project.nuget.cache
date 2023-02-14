@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bno23d+Pavk/5jaDwBvQ0HugzxAc/BJ3KFzNVV5CudITvgXrQ2HuRWY8QLiCxhK2eWOpi+S62Y1GD3tKQhxa6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\addonebinary\\addonebinary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

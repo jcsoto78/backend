@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\quicksort.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\quicksort.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\quicksort.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\quicksort.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\quicksort.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\ref\quicksort.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\bin\Debug\net5.0\quicksort.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\ref\quicksort.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\sorting\quicksort\obj\Debug\net5.0\quicksort.genruntimeconfig.cache

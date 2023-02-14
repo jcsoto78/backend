@@ -1,0 +1,16 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\countWords.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\countWords.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\countWords.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\countWords.runtimeconfig.dev.json
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\countWords.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\ref\countWords.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\bin\Debug\net5.0\countWords.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\ref\countWords.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\countWords\obj\Debug\net5.0\countWords.genruntimeconfig.cache

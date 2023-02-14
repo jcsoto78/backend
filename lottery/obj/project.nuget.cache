@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJtMRz5CuxWdv4n0EBG0REVzigxzM4UjmCdhCgqVkC5ZElwBFjdZgpUUcwKOoHJAZ9/jflCIxdwMG+24gJsxWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\lottery\\lottery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
